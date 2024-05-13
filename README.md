@@ -39,7 +39,8 @@ This project implements the Huffman coding algorithm for text compression and de
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Author
-    Jagdeesh P
+  Jagdeesh P
 
 ## Contributing
-Feel free to contribute to this project by submitting pull requests or reporting issues on GitHub.
+Feel free to contribute to this project by submitting pull requests or reporting issues on GitHub.            
+  
