@@ -1,4 +1,4 @@
-**Huffman Coding Compression and Decompression Tool**
+#**Huffman Coding Compression and Decompression Tool**
 
 **Description:**
 This project implements the Huffman coding algorithm for text compression and decompression. Huffman coding is a widely used algorithm for lossless data compression, especially for text files. The project provides a Django web application interface to upload a text file, compress it using Huffman coding, and download the compressed and decompressed files.
