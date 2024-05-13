@@ -3,10 +3,10 @@
 ## Web Page
 
 ### Upload Page
-![upload_page](C:\Users\LENOVO\OneDrive\Documents\Upload_page.png)
+![upload_page](Upload_page.png)
 
 ### Download Page
-![Download_page](/path/to/after_compression.png)
+![Download_page](Download_page.png)
 
 
 ## Description
