@@ -9,7 +9,6 @@ This project implements the Huffman coding algorithm for text compression and de
     - **templates/**: HTML templates for the web interface.
     - **views.py**: Contains the Django views for handling file uploads, compression, and decompression.
     - **huffman.py**: Contains the Huffman coding algorithm implementation.
-- **media/**: Directory to store uploaded files.
 - **compressed_files/**: Directory to store compressed files.
 - **decompressed_files/**: Directory to store decompressed files.
 
@@ -24,7 +23,7 @@ This project implements the Huffman coding algorithm for text compression and de
 8. Once compressed, click the "Download Compressed File" button to download the compressed file.
 9. To decompress the file, click the "Decompress" button, and then click the "Download Decompressed File" button to download the decompressed file.
 
-**Note:** Ensure that you have the necessary permissions to write files to the `media/`, `compressed_files/`, and `decompressed_files/` directories.
+**Note:** Ensure that you have the necessary permissions to write files to the `compressed_files/`, and `decompressed_files/` directories.
 
 **Additional Features:**
 - Client-side validation to ensure a file is selected before uploading.
@@ -40,7 +39,7 @@ This project implements the Huffman coding algorithm for text compression and de
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 **Author:**
-[Your Name]
+Jagdeesh P
 
 **Contributing:**
 Feel free to contribute to this project by submitting pull requests or reporting issues on GitHub.
